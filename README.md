@@ -1,10 +1,10 @@
-<h2>Olá, eu sou o Artur! 🤜🤛</h2>
-<hr>
+<h2>Olá, eu sou o Artur!</h2>
 
-<div>
-    <a href="https://githu.com/arturtarcisio">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arturtarcisio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturtarcisio&layout=compact&theme=dracula" />
+<div style="display: inline_block">
+    <a href="https://github.com/arturtarcisio">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arturtarcisio&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arturtarcisio&layout=compact&theme=dracula" />
+    </a>
 </div>    
 
 <div>
@@ -18,7 +18,6 @@
 
   - 🎮 Player de COD: Warzone nas horas vagas, amante de videogame. Praticante de musculação, amo praia e cinema. Ah, peladeiro também.
 </div>
-<br>
 
 <div>
   <h3>Minhas principais skills 😎</h3>
@@ -32,7 +31,6 @@
     <img margin-right="20" align="center" alt="Artur-postgresql" height="50" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   </div>
 </div>
-<br>
 <br>
 <div>
   <h3>Meus Contatos 📱</h3>
