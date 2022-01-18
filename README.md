@@ -1,4 +1,4 @@
-<h2>Olá, eu sou o Artur! 👋</h2>
+<h2>Whats up, i am Artur! 👋</h2>
 
 <div style="display: inline_block">
     <a href="https://github.com/arturtarcisio">
@@ -8,23 +8,23 @@
 </div>    
 
 <div>
-  <h3>Sobre mim</h3>
+  <h3>About me</h3>
   
-  - 👨‍💻 Engenheiro de Software Java Jr na Qintess.
+  - 👨‍💻 Software developer at Qintess.
 
-  - 👨‍🎓 Formado em sistemas de informação na Estácio de Sá do Recife (Bacharelado).
+  - 👨‍🎓 Graduated in information systems at Estácio de Sá do Recife (Bachelor).
 
-  - 🎯 Interesse: Java, Kotlin, Spring Boot, Quarkus, API, Micro-serviços, Angular, AWS e Docker.
+  - 🎯 Interest: Java, Kotlin, Spring Boot, Quarkus, API, Micro-services, Angular, AWS e Docker.
     
-  - 📌 Experiência profissional com: Java 1.6 e 1.7, EJB, maven, servlet, jsp, jsf, JDBC, DB2, MySql, Postgresql, git (GitLab), GitFlow, scrum, websphere e jboss.
+  - 📌 Professional experience with: Java 1.6 e 1.7, EJB, maven, servlet, jsp, jsf, JDBC, DB2, MySql, Postgresql, git (GitLab), GitFlow, scrum, websphere e jboss.
 
-  - 🎮 Player de COD: Warzone nas horas vagas, amante de videogame. Praticante de musculação, amo praia e cinema. Ah, peladeiro também.
+  - 🎮 COD player: Warzone in his spare time, video game lover. Bodybuilder (🤣), love the beach and cinema. Oh, i like to play football too.
     
-  - 🩸 Doador de sangue regular. DOE SANGUE!
+  - 🩸 Regular blood donor. DONATE BLOOD!
 </div>
 
 <div>
-  <h3>Minhas principais skills 😎</h3>
+  <h3>My main skills 😎</h3>
   <div style="display: inline_block">
     <img margin-right="20" align="center" alt="Artur-java" height="50" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
     <img margin-right="20" align="center" alt="Artur-spring" height="50" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
@@ -38,7 +38,7 @@
 </div>
 <br>
 <div>
-  <h3>Meus Contatos 📱</h3>
+  <h3>My contacts 📱</h3>
     <div>
       <a href="https://github.com/arturtarcisio" target="_blank">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank">
