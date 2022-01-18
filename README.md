@@ -1,4 +1,4 @@
-<h2>Whats up, i am Artur! 👋</h2>
+<h2>Whats up! I am Artur! 👋</h2>
 
 <div style="display: inline_block">
     <a href="https://github.com/arturtarcisio">
