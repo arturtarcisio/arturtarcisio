@@ -1,4 +1,4 @@
-<h2>Olá, eu sou o Artur!</h2>
+<h2>Olá, eu sou o Artur! 👋</h2>
 
 <div style="display: inline_block">
     <a href="https://github.com/arturtarcisio">
@@ -14,17 +14,22 @@
 
   - 👨‍🎓 Formado em sistemas de informação na Estácio de Sá do Recife (Bacharelado).
 
-  - 🎯 Interesse: Java, Kotlin, Spring Boot, Quarkus, API, Micro-serviços, Angular, AWS e Docker .
+  - 🎯 Interesse: Java, Kotlin, Spring Boot, Quarkus, API, Micro-serviços, Angular, AWS e Docker.
+    
+  - 📌 Experiência profissional com: Java 1.6 e 1.7, EJB, maven, servlet, jsp, jsf, JDBC, DB2, MySql, Postgresql, git (GitLab), GitFlow, scrum, websphere e jboss.
 
   - 🎮 Player de COD: Warzone nas horas vagas, amante de videogame. Praticante de musculação, amo praia e cinema. Ah, peladeiro também.
+    
+  - 🩸 Doador de sangue regular. DOE SANGUE!
 </div>
 
 <div>
   <h3>Minhas principais skills 😎</h3>
   <div style="display: inline_block">
-    <img margin-right="20" align="center" alt="Artur-java" height="50" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-    <img margin-right="20" align="center" alt="Artur-git" height="50" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+    <img margin-right="20" align="center" alt="Artur-java" height="50" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
     <img margin-right="20" align="center" alt="Artur-spring" height="50" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+      <img margin-right="20" align="center" alt="Artur-git" height="50" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+      <img margin-right="20" align="center" alt="Artur-postgresql" height="50" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
     <img margin-right="20" align="center" alt="Artur-mysql" height="50" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img margin-right="20" align="center" alt="Artur-postgresql" height="50" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
     <img margin-right="20" align="center" alt="Artur-postgresql" height="50" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
