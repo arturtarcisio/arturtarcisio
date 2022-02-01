@@ -33,7 +33,6 @@
     <img margin-right="20" align="center" alt="Artur-mysql" height="50" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img margin-right="20" align="center" alt="Artur-postgresql" height="50" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
     <img margin-right="20" align="center" alt="Artur-postgresql" height="50" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img margin-right="20" align="center" alt="Artur-postgresql" height="50" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   </div>
 </div>
 <br>
