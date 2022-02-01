@@ -10,7 +10,7 @@
 <div>
   <h3>About me</h3>
   
-  - 👨‍💻 Software developer at Qintess.
+  - 👨‍💻 Software developer.
 
   - 👨‍🎓 Graduated in information systems at Estácio de Sá do Recife (Bachelor).
 
@@ -18,7 +18,7 @@
     
   - 📌 Professional experience with: Java 1.6 e 1.7, EJB, maven, servlet, jsp, jsf, JDBC, DB2, MySql, Postgresql, git (GitLab), GitFlow, scrum, websphere e jboss.
 
-  - 🎮 COD player: Warzone in his spare time, video game lover. Bodybuilder (🤣), love the beach and cinema. Oh, i like to play football too.
+  - 🎮 COD player: Warzone in my spare time, video game lover. Love go to the beach and cinema. Oh, i like to play football too.
     
   - 🩸 Regular blood donor. DONATE BLOOD!
 </div>
