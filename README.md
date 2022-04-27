@@ -16,11 +16,7 @@
 
   - 🎯 Interest: Java, Kotlin, Spring Boot, Quarkus, API, Micro-services, Angular, AWS e Docker.
     
-  - 📌 Professional experience with: Java 1.6 e 1.7, EJB, maven, servlet, jsp, jsf, JDBC, DB2, MySql, Postgresql, git (GitLab), GitFlow, scrum, websphere e jboss.
-
-  - 🎮 COD player: Warzone in my spare time, video game lover. Love go to the beach and cinema. Oh, i like to play football too.
-    
-  - 🩸 Regular blood donor. DONATE BLOOD!
+  - 📌 Professional experience with: Java (11, 1.6, 1.7), Springboot, rabbitmq, react, EJB, maven, servlet, jsp, JDBC, JPA, DB2, OralceDB, MySql, Postgresql, git (GitLab), GitFlow, scrum, websphere e jboss.
 </div>
 
 <div>
