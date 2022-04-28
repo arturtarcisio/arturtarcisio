@@ -16,7 +16,7 @@
 
   - 🎯 Interest: Java, Kotlin, Spring Boot, Quarkus, API, Micro-services, Angular, AWS e Docker.
     
-  - 📌 Professional experience with: Java (11, 1.6, 1.7), Springboot, rabbitmq, react, EJB, maven, servlet, jsp, JDBC, JPA, DB2, OralceDB, MySql, Postgresql, git (GitLab), GitFlow, scrum, websphere e jboss.
+  - 📌 Professional experience with: Java (17, 11, 1.6, 1.7), Springboot, rabbitmq, react, EJB, maven, servlet, jsp, JDBC, JPA, DB2, OralceDB, MySql, Postgresql, git (GitLab), GitFlow, scrum, websphere e jboss.
 </div>
 
 <div>
