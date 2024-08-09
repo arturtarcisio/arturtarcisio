@@ -16,6 +16,8 @@
 
   - 👨‍🎓 Pos Graduated in Software Engineering at Faculdade Metropolitana.
 
+  - 👨‍🎓 AWS Certified Cloud Practitioner
+
   - 🎯 Interest: Java, Kotlin, Spring Boot, Micro-services, Angular e AWS
     
   - 📌 Professional experience with: Java (17, 11, 1.8, 1.7), Springboot, rabbitmq, EJB, maven, servlet, jsp, JDBC, JPA, DB2, OralceDB, MySql, Postgresql, git (GitLab), GitFlow, scrum, websphere e jboss.
